@@ -50,7 +50,7 @@ Usage
   2.	Open and run the DiamondPrice.ipynb notebook.
 	3.	Follow the notebook sections to:
 
-    •	Load and preprocess the data.
+ 	  •	Load and preprocess the data.
 	  •	Perform EDA using Seaborn and Matplotlib.
 	  •	Train and evaluate the machine learning model.
   4.	Customize the input features to predict diamond prices.
