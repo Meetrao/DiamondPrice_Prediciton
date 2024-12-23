@@ -31,19 +31,17 @@ The dataset (diamonds.csv) contains details about over 53,000 diamonds with the 
 	•	depth, table, x, y, z: Dimensions and proportions.
 
 Installation
-	1.	Clone the repository:
+1.	Clone the repository:
 
-git clone https://github.com/your-username/diamond-price-analysis.git
+		git clone https://github.com/your-username/diamond-price-analysis.git
 
+2.	Navigate to the project directory:
 
-	2.	Navigate to the project directory:
+		cd diamond-price-analysis
 
-cd diamond-price-analysis
+3.	Install the required dependencies:
 
-
-	3.	Install the required dependencies:
-
-pip install -r requirements.txt
+		pip install -r requirements.txt
 
 Usage
 	1.	Launch the Jupyter Notebook environment:
